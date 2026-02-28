@@ -1,0 +1,32 @@
+{
+  "PackId": "default",
+  "ShareCode": null,
+  "Version": 1,
+  "GeneratedAt": "2026-02-28T08:02:32.9354406Z",
+  "MinecraftVersion": null,
+  "Loader": "unknown",
+  "Mods": [
+    {
+      "Name": "testmod1.jar",
+      "Sha256": "ac9dae74b0261246b3a3133b1e1f5462ae46a37cc0d21440565b15be96be4bb7",
+      "Size": 2164241,
+      "ObjectKey": "objects/ac9dae74b0261246b3a3133b1e1f5462ae46a37cc0d21440565b15be96be4bb7.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/ac9dae74b0261246b3a3133b1e1f5462ae46a37cc0d21440565b15be96be4bb7.jar"
+    },
+    {
+      "Name": "testmod2.jar",
+      "Sha256": "9158fed9fb694bc7f7c0520205c101defdffe225a4c1f9af1a3c62314d51fdca",
+      "Size": 1431624,
+      "ObjectKey": "objects/9158fed9fb694bc7f7c0520205c101defdffe225a4c1f9af1a3c62314d51fdca.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/9158fed9fb694bc7f7c0520205c101defdffe225a4c1f9af1a3c62314d51fdca.jar"
+    },
+    {
+      "Name": "testmod3-server.jar",
+      "Sha256": "2240bf5fb5d80938b0676c46ef9f84bc1739c32f60c473ff85e530ae0eca2818",
+      "Size": 3052792,
+      "ObjectKey": "objects/2240bf5fb5d80938b0676c46ef9f84bc1739c32f60c473ff85e530ae0eca2818.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/2240bf5fb5d80938b0676c46ef9f84bc1739c32f60c473ff85e530ae0eca2818.jar"
+    }
+  ],
+  "ServerOnly": []
+}
