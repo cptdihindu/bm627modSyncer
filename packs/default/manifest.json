@@ -1,18 +1,11 @@
 {
   "PackId": "default",
   "ShareCode": "CAULDRON-Y3B0ZGloaW5kdS9ibTYyN21vZFN5bmNlcnxkZWZhdWx0",
-  "Version": 2,
-  "GeneratedAt": "2026-02-28T08:03:52.3275993Z",
+  "Version": 3,
+  "GeneratedAt": "2026-02-28T08:04:55.6352589Z",
   "MinecraftVersion": null,
   "Loader": "unknown",
   "Mods": [
-    {
-      "Name": "testmod1.jar",
-      "Sha256": "ac9dae74b0261246b3a3133b1e1f5462ae46a37cc0d21440565b15be96be4bb7",
-      "Size": 2164241,
-      "ObjectKey": "objects/ac9dae74b0261246b3a3133b1e1f5462ae46a37cc0d21440565b15be96be4bb7.jar",
-      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/ac9dae74b0261246b3a3133b1e1f5462ae46a37cc0d21440565b15be96be4bb7.jar"
-    },
     {
       "Name": "testmod2.jar",
       "Sha256": "9158fed9fb694bc7f7c0520205c101defdffe225a4c1f9af1a3c62314d51fdca",
@@ -22,6 +15,7 @@
     }
   ],
   "ServerOnly": [
+    "testmod1.jar",
     "testmod3-server.jar"
   ]
 }
