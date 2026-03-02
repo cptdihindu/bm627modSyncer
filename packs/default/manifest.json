@@ -1,39 +1,398 @@
 {
   "PackId": "default",
-  "ShareCode": "CAULDRON-Y3B0ZGloaW5kdS9ibTYyN21vZFN5bmNlcnxkZWZhdWx0",
-  "Version": 7,
-  "GeneratedAt": "2026-03-02T05:12:50.1561622Z",
+  "ShareCode": null,
+  "Version": 1,
+  "GeneratedAt": "2026-03-02T06:49:07.1015805Z",
   "MinecraftVersion": null,
   "Loader": "unknown",
   "Mods": [
     {
-      "Name": "servermod.jar",
-      "Sha256": "a8d426b4327940fe90d07502c6523d84b93e5d0a2e3e5378e468fcc17db636b0",
-      "Size": 1070204,
-      "ObjectKey": "objects/a8d426b4327940fe90d07502c6523d84b93e5d0a2e3e5378e468fcc17db636b0.jar",
-      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/a8d426b4327940fe90d07502c6523d84b93e5d0a2e3e5378e468fcc17db636b0.jar"
+      "Name": "accessories-fabric-1.0.0-beta.35\u002B1.21.jar",
+      "Sha256": "d832341b72a82abfeac4a82626bab52a2d52d5130272207f81d936b662047896",
+      "Size": 779437,
+      "ObjectKey": "objects/d832341b72a82abfeac4a82626bab52a2d52d5130272207f81d936b662047896.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/d832341b72a82abfeac4a82626bab52a2d52d5130272207f81d936b662047896.jar"
     },
     {
-      "Name": "testmod1.jar",
-      "Sha256": "ac9dae74b0261246b3a3133b1e1f5462ae46a37cc0d21440565b15be96be4bb7",
-      "Size": 2164241,
-      "ObjectKey": "objects/ac9dae74b0261246b3a3133b1e1f5462ae46a37cc0d21440565b15be96be4bb7.jar",
-      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/ac9dae74b0261246b3a3133b1e1f5462ae46a37cc0d21440565b15be96be4bb7.jar"
+      "Name": "architectury-13.0.8-fabric.jar",
+      "Sha256": "10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d",
+      "Size": 600915,
+      "ObjectKey": "objects/10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d.jar"
     },
     {
-      "Name": "testmod2.jar",
-      "Sha256": "9158fed9fb694bc7f7c0520205c101defdffe225a4c1f9af1a3c62314d51fdca",
-      "Size": 1431624,
-      "ObjectKey": "objects/9158fed9fb694bc7f7c0520205c101defdffe225a4c1f9af1a3c62314d51fdca.jar",
-      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/9158fed9fb694bc7f7c0520205c101defdffe225a4c1f9af1a3c62314d51fdca.jar"
+      "Name": "balm-fabric-1.21.1-21.0.41.jar",
+      "Sha256": "758ab411709938750ee391f1bcd30925eac14b551ac45a43ff9831b6a8f786ac",
+      "Size": 605617,
+      "ObjectKey": "objects/758ab411709938750ee391f1bcd30925eac14b551ac45a43ff9831b6a8f786ac.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/758ab411709938750ee391f1bcd30925eac14b551ac45a43ff9831b6a8f786ac.jar"
     },
     {
-      "Name": "testmod3-server.jar",
-      "Sha256": "2240bf5fb5d80938b0676c46ef9f84bc1739c32f60c473ff85e530ae0eca2818",
-      "Size": 3052792,
-      "ObjectKey": "objects/2240bf5fb5d80938b0676c46ef9f84bc1739c32f60c473ff85e530ae0eca2818.jar",
-      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/2240bf5fb5d80938b0676c46ef9f84bc1739c32f60c473ff85e530ae0eca2818.jar"
+      "Name": "BOMD-1.10.2-1.21.1.jar",
+      "Sha256": "0bacd6867ef89c92307dd811ec6a5584e987ef367ab90a89c9ca2f6901fe5e97",
+      "Size": 2679483,
+      "ObjectKey": "objects/0bacd6867ef89c92307dd811ec6a5584e987ef367ab90a89c9ca2f6901fe5e97.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/0bacd6867ef89c92307dd811ec6a5584e987ef367ab90a89c9ca2f6901fe5e97.jar"
+    },
+    {
+      "Name": "cardinal-components-api-6.1.3.jar",
+      "Sha256": "302a8a4bc2e34cbffaf61af75ab5de47c06bfa159436665870ae61092b0f69a2",
+      "Size": 229645,
+      "ObjectKey": "objects/302a8a4bc2e34cbffaf61af75ab5de47c06bfa159436665870ae61092b0f69a2.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/302a8a4bc2e34cbffaf61af75ab5de47c06bfa159436665870ae61092b0f69a2.jar"
+    },
+    {
+      "Name": "carryon-fabric-1.21-2.2.1.jar",
+      "Sha256": "68ba8277cba8b0c27671959c19243735191a2d9c332c7d6beed3766a9ba0606d",
+      "Size": 351861,
+      "ObjectKey": "objects/68ba8277cba8b0c27671959c19243735191a2d9c332c7d6beed3766a9ba0606d.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/68ba8277cba8b0c27671959c19243735191a2d9c332c7d6beed3766a9ba0606d.jar"
+    },
+    {
+      "Name": "cloth-config-15.0.140-fabric.jar",
+      "Sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f",
+      "Size": 1157166,
+      "ObjectKey": "objects/33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f.jar"
+    },
+    {
+      "Name": "continuity-3.0.0\u002B1.21.jar",
+      "Sha256": "99fd46b834874d167ea2349a9a72947cbfa7192f927aa99bbeb4b0637aa208d4",
+      "Size": 1014044,
+      "ObjectKey": "objects/99fd46b834874d167ea2349a9a72947cbfa7192f927aa99bbeb4b0637aa208d4.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/99fd46b834874d167ea2349a9a72947cbfa7192f927aa99bbeb4b0637aa208d4.jar"
+    },
+    {
+      "Name": "CreeperOverhaul-fabric-1.21.1-4.0.6.jar",
+      "Sha256": "45ea8ca85ea5926484347de7289ceeeff3e79c6f16b4b04f98ffebf2e484b5a6",
+      "Size": 1180412,
+      "ObjectKey": "objects/45ea8ca85ea5926484347de7289ceeeff3e79c6f16b4b04f98ffebf2e484b5a6.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/45ea8ca85ea5926484347de7289ceeeff3e79c6f16b4b04f98ffebf2e484b5a6.jar"
+    },
+    {
+      "Name": "DiagonalFences-v21.0.0-1.21-Fabric.jar",
+      "Sha256": "4d1bbd03c29c08fe61003f646b1012e342eae889e226dfc0448f3c22fab24296",
+      "Size": 165090,
+      "ObjectKey": "objects/4d1bbd03c29c08fe61003f646b1012e342eae889e226dfc0448f3c22fab24296.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/4d1bbd03c29c08fe61003f646b1012e342eae889e226dfc0448f3c22fab24296.jar"
+    },
+    {
+      "Name": "DiagonalWalls-v21.0.0-1.21-Fabric.jar",
+      "Sha256": "74e6ac092425122cdee9c8e35ea0240b8a60075649c0fedebb7620d75c4efedc",
+      "Size": 161308,
+      "ObjectKey": "objects/74e6ac092425122cdee9c8e35ea0240b8a60075649c0fedebb7620d75c4efedc.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/74e6ac092425122cdee9c8e35ea0240b8a60075649c0fedebb7620d75c4efedc.jar"
+    },
+    {
+      "Name": "DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
+      "Sha256": "914190f6f899fca0f4b67595c6f7c53f8c736f6d1049a48fef8cfba46871d865",
+      "Size": 11864952,
+      "ObjectKey": "objects/914190f6f899fca0f4b67595c6f7c53f8c736f6d1049a48fef8cfba46871d865.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/914190f6f899fca0f4b67595c6f7c53f8c736f6d1049a48fef8cfba46871d865.jar"
+    },
+    {
+      "Name": "endrem-fabric-1.21-6.0.0.jar",
+      "Sha256": "9f50823a2f28647477ced7b81c7e01d48130d2e16e6c828d0c1bbe705b2d551f",
+      "Size": 947511,
+      "ObjectKey": "objects/9f50823a2f28647477ced7b81c7e01d48130d2e16e6c828d0c1bbe705b2d551f.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/9f50823a2f28647477ced7b81c7e01d48130d2e16e6c828d0c1bbe705b2d551f.jar"
+    },
+    {
+      "Name": "entityculling-fabric-1.8.2-mc1.21.jar",
+      "Sha256": "8649c93be0ce20655742adb24bac097a9aeec50b8c1bc8ed78bfe1da7636e8fa",
+      "Size": 469193,
+      "ObjectKey": "objects/8649c93be0ce20655742adb24bac097a9aeec50b8c1bc8ed78bfe1da7636e8fa.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/8649c93be0ce20655742adb24bac097a9aeec50b8c1bc8ed78bfe1da7636e8fa.jar"
+    },
+    {
+      "Name": "entity_model_features_1.21-fabric-3.0.12.jar",
+      "Sha256": "13002727f5009944b2257824c4a10f6553937c1a4e44b8a2d0950f8d991166e6",
+      "Size": 496342,
+      "ObjectKey": "objects/13002727f5009944b2257824c4a10f6553937c1a4e44b8a2d0950f8d991166e6.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/13002727f5009944b2257824c4a10f6553937c1a4e44b8a2d0950f8d991166e6.jar"
+    },
+    {
+      "Name": "entity_texture_features_1.21-fabric-7.0.9.jar",
+      "Sha256": "e9e39ec50d8e028060e5a21683e98d529d64a65ac9e72c7c887163eb01808af9",
+      "Size": 728221,
+      "ObjectKey": "objects/e9e39ec50d8e028060e5a21683e98d529d64a65ac9e72c7c887163eb01808af9.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/e9e39ec50d8e028060e5a21683e98d529d64a65ac9e72c7c887163eb01808af9.jar"
+    },
+    {
+      "Name": "fabric-api-0.102.0\u002B1.21.jar",
+      "Sha256": "7ec0e5a11e77957fe1ed0328487921a8211bb7eace14298cd74635bec61a3f26",
+      "Size": 2285859,
+      "ObjectKey": "objects/7ec0e5a11e77957fe1ed0328487921a8211bb7eace14298cd74635bec61a3f26.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/7ec0e5a11e77957fe1ed0328487921a8211bb7eace14298cd74635bec61a3f26.jar"
+    },
+    {
+      "Name": "fabric-language-kotlin-1.13.9\u002Bkotlin.2.3.10.jar",
+      "Sha256": "fecd5e6dd6ae76814ba92136b417912c19b19ec76ea451cede472cd29cdecf91",
+      "Size": 7642216,
+      "ObjectKey": "objects/fecd5e6dd6ae76814ba92136b417912c19b19ec76ea451cede472cd29cdecf91.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/fecd5e6dd6ae76814ba92136b417912c19b19ec76ea451cede472cd29cdecf91.jar"
+    },
+    {
+      "Name": "ForgeConfigAPIPort-v21.0.8-1.21-Fabric.jar",
+      "Sha256": "4fa3ad51ec82bd8abe8e8ca9ad425314fb2b2a6a72d4957d71ff6d9e4889c759",
+      "Size": 627640,
+      "ObjectKey": "objects/4fa3ad51ec82bd8abe8e8ca9ad425314fb2b2a6a72d4957d71ff6d9e4889c759.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/4fa3ad51ec82bd8abe8e8ca9ad425314fb2b2a6a72d4957d71ff6d9e4889c759.jar"
+    },
+    {
+      "Name": "geckolib-fabric-1.21-4.5.8.jar",
+      "Sha256": "90d005c98e2c7495862626a07bae8a6cba52eafb438bb17bbc068fcdf3435f87",
+      "Size": 584998,
+      "ObjectKey": "objects/90d005c98e2c7495862626a07bae8a6cba52eafb438bb17bbc068fcdf3435f87.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/90d005c98e2c7495862626a07bae8a6cba52eafb438bb17bbc068fcdf3435f87.jar"
+    },
+    {
+      "Name": "graves-3.4.4\u002B1.21.jar",
+      "Sha256": "3b46ddc0911b8bfc2ba6eabae03f7071afee8b5816a3f11104d7899073a023d3",
+      "Size": 1709158,
+      "ObjectKey": "objects/3b46ddc0911b8bfc2ba6eabae03f7071afee8b5816a3f11104d7899073a023d3.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/3b46ddc0911b8bfc2ba6eabae03f7071afee8b5816a3f11104d7899073a023d3.jar"
+    },
+    {
+      "Name": "guardvillagers-2.1.2-1.21.jar",
+      "Sha256": "e4c50168d0372957ae826d0404f8ea350d01217f90be3585c1e1699bbfee20a3",
+      "Size": 305635,
+      "ObjectKey": "objects/e4c50168d0372957ae826d0404f8ea350d01217f90be3585c1e1699bbfee20a3.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/e4c50168d0372957ae826d0404f8ea350d01217f90be3585c1e1699bbfee20a3.jar"
+    },
+    {
+      "Name": "iris-fabric-1.8.8\u002Bmc1.21.1.jar",
+      "Sha256": "b5ad39a6cb113ca0a1765f06689f9f4b29ccd0c81247de90b06c42f5da1092f5",
+      "Size": 2690177,
+      "ObjectKey": "objects/b5ad39a6cb113ca0a1765f06689f9f4b29ccd0c81247de90b06c42f5da1092f5.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/b5ad39a6cb113ca0a1765f06689f9f4b29ccd0c81247de90b06c42f5da1092f5.jar"
+    },
+    {
+      "Name": "jamlib-fabric-1.3.5\u002B1.21.1.jar",
+      "Sha256": "889b33cec23db13b4442f934830659a3b0d2e72ca8c481159b94365b6e0968fc",
+      "Size": 187558,
+      "ObjectKey": "objects/889b33cec23db13b4442f934830659a3b0d2e72ca8c481159b94365b6e0968fc.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/889b33cec23db13b4442f934830659a3b0d2e72ca8c481159b94365b6e0968fc.jar"
+    },
+    {
+      "Name": "jei-1.21.1-fabric-19.27.0.336.jar",
+      "Sha256": "1d47dab86cee6d68e0887ec5e14deee125d3e2ea92c5ecedbb57f8f60aafa709",
+      "Size": 1561528,
+      "ObjectKey": "objects/1d47dab86cee6d68e0887ec5e14deee125d3e2ea92c5ecedbb57f8f60aafa709.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/1d47dab86cee6d68e0887ec5e14deee125d3e2ea92c5ecedbb57f8f60aafa709.jar"
+    },
+    {
+      "Name": "lambdynamiclights-4.8.7\u002B1.21.1.jar",
+      "Sha256": "30ce0c25f703d1a53540359447f11d35b411f5c75481555b0dc45ffa8d62006b",
+      "Size": 2012226,
+      "ObjectKey": "objects/30ce0c25f703d1a53540359447f11d35b411f5c75481555b0dc45ffa8d62006b.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/30ce0c25f703d1a53540359447f11d35b411f5c75481555b0dc45ffa8d62006b.jar"
+    },
+    {
+      "Name": "lithium-fabric-0.15.2\u002Bmc1.21.1.jar",
+      "Sha256": "537bc45224e81dd1cbae25c1a972f14dac2456f0f8725ced3ca88ae41d0156d3",
+      "Size": 797184,
+      "ObjectKey": "objects/537bc45224e81dd1cbae25c1a972f14dac2456f0f8725ced3ca88ae41d0156d3.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/537bc45224e81dd1cbae25c1a972f14dac2456f0f8725ced3ca88ae41d0156d3.jar"
+    },
+    {
+      "Name": "modmenu-11.0.3.jar",
+      "Sha256": "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428",
+      "Size": 973066,
+      "ObjectKey": "objects/a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428.jar"
+    },
+    {
+      "Name": "MoreChestVariants-1.5.6\u002B1.21-Fabric.jar",
+      "Sha256": "f3fc74b2b956fad236fa3257ace88ed5d3f1a3b890b107e06ccc0c3d2c48fd50",
+      "Size": 264883,
+      "ObjectKey": "objects/f3fc74b2b956fad236fa3257ace88ed5d3f1a3b890b107e06ccc0c3d2c48fd50.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/f3fc74b2b956fad236fa3257ace88ed5d3f1a3b890b107e06ccc0c3d2c48fd50.jar"
+    },
+    {
+      "Name": "placeholder-api-2.4.2\u002B1.21.jar",
+      "Sha256": "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443",
+      "Size": 232325,
+      "ObjectKey": "objects/c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443.jar"
+    },
+    {
+      "Name": "polymer-bundled-0.9.9\u002B1.21.jar",
+      "Sha256": "ab185f1bfb8e9d7a90934896e85864f7d7393dbc537e1be711483b5e3953c3ce",
+      "Size": 1663153,
+      "ObjectKey": "objects/ab185f1bfb8e9d7a90934896e85864f7d7393dbc537e1be711483b5e3953c3ce.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/ab185f1bfb8e9d7a90934896e85864f7d7393dbc537e1be711483b5e3953c3ce.jar"
+    },
+    {
+      "Name": "PuzzlesLib-v21.0.28-1.21-Fabric.jar",
+      "Sha256": "f5787386a00425793901379791c1dc80316673e5e72c28e22c28039a15a33ac1",
+      "Size": 1075802,
+      "ObjectKey": "objects/f5787386a00425793901379791c1dc80316673e5e72c28e22c28039a15a33ac1.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/f5787386a00425793901379791c1dc80316673e5e72c28e22c28039a15a33ac1.jar"
+    },
+    {
+      "Name": "Quad-1.2.9\u002B1.21.1-Fabric.jar",
+      "Sha256": "d3e36c6b74095d30979b5cd0f0c009fa728dfe22cfbc827ffe870a0191af42fd",
+      "Size": 71651,
+      "ObjectKey": "objects/d3e36c6b74095d30979b5cd0f0c009fa728dfe22cfbc827ffe870a0191af42fd.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/d3e36c6b74095d30979b5cd0f0c009fa728dfe22cfbc827ffe870a0191af42fd.jar"
+    },
+    {
+      "Name": "resourcefulconfig-fabric-1.21-3.0.11.jar",
+      "Sha256": "8c2624ddeda09d00c42095a37281dc502c6dcaffae68a3e08c3ea57fef28425e",
+      "Size": 345396,
+      "ObjectKey": "objects/8c2624ddeda09d00c42095a37281dc502c6dcaffae68a3e08c3ea57fef28425e.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/8c2624ddeda09d00c42095a37281dc502c6dcaffae68a3e08c3ea57fef28425e.jar"
+    },
+    {
+      "Name": "resourcefullib-fabric-1.21-3.0.12.jar",
+      "Sha256": "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5",
+      "Size": 485586,
+      "ObjectKey": "objects/93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5.jar"
+    },
+    {
+      "Name": "rocks-1.8.2.jar",
+      "Sha256": "3dab9903812953eb2919c45ed2fc6c5890871db64fe9089d3f9742514b97f6b4",
+      "Size": 223237,
+      "ObjectKey": "objects/3dab9903812953eb2919c45ed2fc6c5890871db64fe9089d3f9742514b97f6b4.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/3dab9903812953eb2919c45ed2fc6c5890871db64fe9089d3f9742514b97f6b4.jar"
+    },
+    {
+      "Name": "StorageDrawers-fabric-1.21.1-13.11.4.jar",
+      "Sha256": "306193d2050e17b90f5e65e8a10967315f5b27ca9fb002330732b66b1cda54a7",
+      "Size": 1148425,
+      "ObjectKey": "objects/306193d2050e17b90f5e65e8a10967315f5b27ca9fb002330732b66b1cda54a7.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/306193d2050e17b90f5e65e8a10967315f5b27ca9fb002330732b66b1cda54a7.jar"
+    },
+    {
+      "Name": "tectonic-fabric-1.21-2.4.1.jar",
+      "Sha256": "84bfc1d535067531b7df5b5928f36252ebed38cf7f5a40b2a316b2add5e1e9e6",
+      "Size": 256228,
+      "ObjectKey": "objects/84bfc1d535067531b7df5b5928f36252ebed38cf7f5a40b2a316b2add5e1e9e6.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/84bfc1d535067531b7df5b5928f36252ebed38cf7f5a40b2a316b2add5e1e9e6.jar"
+    },
+    {
+      "Name": "trade-cycling-fabric-1.21.1-1.0.20.jar",
+      "Sha256": "86593f882fede5c0aec1ae7c1aeafddb716ef5acbfe54cd3a8c3c14e187933d7",
+      "Size": 521371,
+      "ObjectKey": "objects/86593f882fede5c0aec1ae7c1aeafddb716ef5acbfe54cd3a8c3c14e187933d7.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/86593f882fede5c0aec1ae7c1aeafddb716ef5acbfe54cd3a8c3c14e187933d7.jar"
+    },
+    {
+      "Name": "trashslot-fabric-1.21.1-21.1.4.jar",
+      "Sha256": "4b06b475c969fd7b49a73035443488b401e71bcaba134470fdeb40d3575600df",
+      "Size": 124503,
+      "ObjectKey": "objects/4b06b475c969fd7b49a73035443488b401e71bcaba134470fdeb40d3575600df.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/4b06b475c969fd7b49a73035443488b401e71bcaba134470fdeb40d3575600df.jar"
+    },
+    {
+      "Name": "travelersbackpack-fabric-1.21-10.0.7.jar",
+      "Sha256": "02aa78f198bdca7c0d6eb133e832fc171b8c5f394bbcf05a262b8e16a5fb37b2",
+      "Size": 1044292,
+      "ObjectKey": "objects/02aa78f198bdca7c0d6eb133e832fc171b8c5f394bbcf05a262b8e16a5fb37b2.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/02aa78f198bdca7c0d6eb133e832fc171b8c5f394bbcf05a262b8e16a5fb37b2.jar"
+    },
+    {
+      "Name": "TreeChop-1.21-fabric-0.19.2.jar",
+      "Sha256": "64a61bf17c15260315902332e24def1010b2c7ae1a67bbd2e68cf49485da5011",
+      "Size": 490507,
+      "ObjectKey": "objects/64a61bf17c15260315902332e24def1010b2c7ae1a67bbd2e68cf49485da5011.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/64a61bf17c15260315902332e24def1010b2c7ae1a67bbd2e68cf49485da5011.jar"
+    },
+    {
+      "Name": "utility-belt-fabric-2.4.2\u002B1.21.jar",
+      "Sha256": "011be9dc2327951b67f3d04bc997c10f2eddbf40a3d8059520cdd99604a9fc7d",
+      "Size": 248905,
+      "ObjectKey": "objects/011be9dc2327951b67f3d04bc997c10f2eddbf40a3d8059520cdd99604a9fc7d.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/011be9dc2327951b67f3d04bc997c10f2eddbf40a3d8059520cdd99604a9fc7d.jar"
+    },
+    {
+      "Name": "waystones-fabric-1.21.1-21.1.21.jar",
+      "Sha256": "a52c371d79ef4d8b8bb7c0cd28baf331840583a6535c3f687a79bcc8a34f1198",
+      "Size": 886610,
+      "ObjectKey": "objects/a52c371d79ef4d8b8bb7c0cd28baf331840583a6535c3f687a79bcc8a34f1198.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/a52c371d79ef4d8b8bb7c0cd28baf331840583a6535c3f687a79bcc8a34f1198.jar"
+    },
+    {
+      "Name": "xaeromaps_waystones-1.0.8\u002B1.21.x-fabric.jar",
+      "Sha256": "ac3438f8fb9ce1514348a71754e780110fed3d3c8c1ca747757c5fc89188e21b",
+      "Size": 88249,
+      "ObjectKey": "objects/ac3438f8fb9ce1514348a71754e780110fed3d3c8c1ca747757c5fc89188e21b.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/ac3438f8fb9ce1514348a71754e780110fed3d3c8c1ca747757c5fc89188e21b.jar"
+    },
+    {
+      "Name": "XaerosWorldMap_1.38.8_Fabric_1.21.jar",
+      "Sha256": "b9dce2f46b88297fe4449c0a649bc8aab4fb745355ee3d08af84c3b8c7311dc3",
+      "Size": 948586,
+      "ObjectKey": "objects/b9dce2f46b88297fe4449c0a649bc8aab4fb745355ee3d08af84c3b8c7311dc3.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/b9dce2f46b88297fe4449c0a649bc8aab4fb745355ee3d08af84c3b8c7311dc3.jar"
+    },
+    {
+      "Name": "Xaeros_Minimap_25.0.0_Fabric_1.21.jar",
+      "Sha256": "85fdbed05b48fcd4154fb69b63f98531879cabcb496512c6fb2d81091eb232a6",
+      "Size": 1686418,
+      "ObjectKey": "objects/85fdbed05b48fcd4154fb69b63f98531879cabcb496512c6fb2d81091eb232a6.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/85fdbed05b48fcd4154fb69b63f98531879cabcb496512c6fb2d81091eb232a6.jar"
+    },
+    {
+      "Name": "YetAnotherConfigLib-3.5.0\u002B1.21-fabric.jar",
+      "Sha256": "3f9985e8ea65f18d36bf500802d6a39789f067f2dcbc1480ef6570c1ff7fde04",
+      "Size": 1150467,
+      "ObjectKey": "objects/3f9985e8ea65f18d36bf500802d6a39789f067f2dcbc1480ef6570c1ff7fde04.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/3f9985e8ea65f18d36bf500802d6a39789f067f2dcbc1480ef6570c1ff7fde04.jar"
+    },
+    {
+      "Name": "YungsApi-1.21.1-Fabric-5.1.6.jar",
+      "Sha256": "36fb903a1ebcf1511745be2da9e5144f1d2465bff7a5c17beffd347399acd1ba",
+      "Size": 1257492,
+      "ObjectKey": "objects/36fb903a1ebcf1511745be2da9e5144f1d2465bff7a5c17beffd347399acd1ba.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/36fb903a1ebcf1511745be2da9e5144f1d2465bff7a5c17beffd347399acd1ba.jar"
+    },
+    {
+      "Name": "YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar",
+      "Sha256": "2bb73eef278c277657b27f72d2fa1d917a17c14052bf526a2ba175f6e9a63012",
+      "Size": 1033207,
+      "ObjectKey": "objects/2bb73eef278c277657b27f72d2fa1d917a17c14052bf526a2ba175f6e9a63012.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/2bb73eef278c277657b27f72d2fa1d917a17c14052bf526a2ba175f6e9a63012.jar"
+    },
+    {
+      "Name": "YungsBetterEndIsland-1.21.1-Fabric-3.1.2.jar",
+      "Sha256": "9a398731319f53458abedf6295d63dc140c82d81cfa89e088526b0821375af59",
+      "Size": 522278,
+      "ObjectKey": "objects/9a398731319f53458abedf6295d63dc140c82d81cfa89e088526b0821375af59.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/9a398731319f53458abedf6295d63dc140c82d81cfa89e088526b0821375af59.jar"
+    },
+    {
+      "Name": "YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar",
+      "Sha256": "27949f5bae0afeff457711a5b42482be301b76bc8b1136f1120f848489bb5fa6",
+      "Size": 615927,
+      "ObjectKey": "objects/27949f5bae0afeff457711a5b42482be301b76bc8b1136f1120f848489bb5fa6.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/27949f5bae0afeff457711a5b42482be301b76bc8b1136f1120f848489bb5fa6.jar"
+    },
+    {
+      "Name": "YungsBetterNetherFortresses-1.21.1-Fabric-3.1.5.jar",
+      "Sha256": "77a258e499559f1190c872277f8eecf202dd4ef0681674dce941003fa4367f78",
+      "Size": 736418,
+      "ObjectKey": "objects/77a258e499559f1190c872277f8eecf202dd4ef0681674dce941003fa4367f78.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/77a258e499559f1190c872277f8eecf202dd4ef0681674dce941003fa4367f78.jar"
+    },
+    {
+      "Name": "YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar",
+      "Sha256": "4cfbb226bd1db17032ac7e7306e94ed27f1a8e2f3e09fb62c47688f8a527adec",
+      "Size": 1150417,
+      "ObjectKey": "objects/4cfbb226bd1db17032ac7e7306e94ed27f1a8e2f3e09fb62c47688f8a527adec.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/4cfbb226bd1db17032ac7e7306e94ed27f1a8e2f3e09fb62c47688f8a527adec.jar"
+    },
+    {
+      "Name": "YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar",
+      "Sha256": "1cb412c83aa0e8273d29a1122c5799eb15a48acc8f0b770efe451c516647f5f8",
+      "Size": 587855,
+      "ObjectKey": "objects/1cb412c83aa0e8273d29a1122c5799eb15a48acc8f0b770efe451c516647f5f8.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/1cb412c83aa0e8273d29a1122c5799eb15a48acc8f0b770efe451c516647f5f8.jar"
     }
   ],
-  "ServerOnly": []
+  "ServerOnly": [
+    "c2me-fabric-mc1.21-0.2.0\u002Balpha.11.109.jar"
+  ]
 }
