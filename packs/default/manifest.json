@@ -1,8 +1,8 @@
 {
   "PackId": "default",
-  "ShareCode": null,
-  "Version": 1,
-  "GeneratedAt": "2026-03-02T06:56:54.5351683Z",
+  "ShareCode": "CAULDRON-Y3B0ZGloaW5kdS9ibTYyN21vZFN5bmNlcnxkZWZhdWx0",
+  "Version": 2,
+  "GeneratedAt": "2026-03-07T14:36:15.2263176Z",
   "MinecraftVersion": null,
   "Loader": "unknown",
   "Mods": [
@@ -161,6 +161,13 @@
       "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/e4c50168d0372957ae826d0404f8ea350d01217f90be3585c1e1699bbfee20a3.jar"
     },
     {
+      "Name": "ImmediatelyFast-Fabric-1.6.10\u002B1.21.1.jar",
+      "Sha256": "211a6784185e9a5e7f631c38de35c580a8b88b2f30eb6850216497bbaefc7cf9",
+      "Size": 342770,
+      "ObjectKey": "objects/211a6784185e9a5e7f631c38de35c580a8b88b2f30eb6850216497bbaefc7cf9.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/211a6784185e9a5e7f631c38de35c580a8b88b2f30eb6850216497bbaefc7cf9.jar"
+    },
+    {
       "Name": "iris-fabric-1.8.8\u002Bmc1.21.1.jar",
       "Sha256": "b5ad39a6cb113ca0a1765f06689f9f4b29ccd0c81247de90b06c42f5da1092f5",
       "Size": 2690177,
@@ -259,11 +266,32 @@
       "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/3dab9903812953eb2919c45ed2fc6c5890871db64fe9089d3f9742514b97f6b4.jar"
     },
     {
+      "Name": "sodium-extra-fabric-0.6.0\u002Bmc1.21.1.jar",
+      "Sha256": "1a7434e444c851d82efbe3d5a8fd2dbb142e9bdf0012d7c6a0e4741c641b1a2d",
+      "Size": 373661,
+      "ObjectKey": "objects/1a7434e444c851d82efbe3d5a8fd2dbb142e9bdf0012d7c6a0e4741c641b1a2d.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/1a7434e444c851d82efbe3d5a8fd2dbb142e9bdf0012d7c6a0e4741c641b1a2d.jar"
+    },
+    {
+      "Name": "sodium-fabric-0.6.13\u002Bmc1.21.1.jar",
+      "Sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
+      "Size": 1297761,
+      "ObjectKey": "objects/e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353.jar"
+    },
+    {
       "Name": "StorageDrawers-fabric-1.21.1-13.11.4.jar",
       "Sha256": "306193d2050e17b90f5e65e8a10967315f5b27ca9fb002330732b66b1cda54a7",
       "Size": 1148425,
       "ObjectKey": "objects/306193d2050e17b90f5e65e8a10967315f5b27ca9fb002330732b66b1cda54a7.jar",
       "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/306193d2050e17b90f5e65e8a10967315f5b27ca9fb002330732b66b1cda54a7.jar"
+    },
+    {
+      "Name": "stutterfix-mc1.21-0.2.3.jar",
+      "Sha256": "5cbea2a6bf5a92bf536d5eebe1530c42aafb46fcbc11e72271d096debf302f6d",
+      "Size": 26884,
+      "ObjectKey": "objects/5cbea2a6bf5a92bf536d5eebe1530c42aafb46fcbc11e72271d096debf302f6d.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/5cbea2a6bf5a92bf536d5eebe1530c42aafb46fcbc11e72271d096debf302f6d.jar"
     },
     {
       "Name": "tectonic-fabric-1.21-2.4.1.jar",
