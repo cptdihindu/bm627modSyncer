@@ -1,8 +1,8 @@
 {
   "PackId": "default",
   "ShareCode": "CAULDRON-Y3B0ZGloaW5kdS9ibTYyN21vZFN5bmNlcnxkZWZhdWx0",
-  "Version": 5,
-  "GeneratedAt": "2026-03-08T08:54:36.8028747Z",
+  "Version": 6,
+  "GeneratedAt": "2026-03-08T09:05:42.5367796Z",
   "MinecraftVersion": null,
   "Loader": "unknown",
   "Mods": [
@@ -161,6 +161,20 @@
       "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/e4c50168d0372957ae826d0404f8ea350d01217f90be3585c1e1699bbfee20a3.jar"
     },
     {
+      "Name": "HMI 4.3 - 1.21.(1).jar",
+      "Sha256": "8fef74afd768f25621bd63b8df35c22f5b9eb35cdec91a360c6335e41890e24c",
+      "Size": 105906,
+      "ObjectKey": "objects/8fef74afd768f25621bd63b8df35c22f5b9eb35cdec91a360c6335e41890e24c.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/8fef74afd768f25621bd63b8df35c22f5b9eb35cdec91a360c6335e41890e24c.jar"
+    },
+    {
+      "Name": "HorseBuff-1.21-2.1.8.jar",
+      "Sha256": "0937f1acf2b996084257a3edecdeff38ba72695bd4b0fc7de186456752bf995f",
+      "Size": 212943,
+      "ObjectKey": "objects/0937f1acf2b996084257a3edecdeff38ba72695bd4b0fc7de186456752bf995f.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/0937f1acf2b996084257a3edecdeff38ba72695bd4b0fc7de186456752bf995f.jar"
+    },
+    {
       "Name": "ImmediatelyFast-Fabric-1.6.10\u002B1.21.1.jar",
       "Sha256": "211a6784185e9a5e7f631c38de35c580a8b88b2f30eb6850216497bbaefc7cf9",
       "Size": 342770,
@@ -194,6 +208,13 @@
       "Size": 2012226,
       "ObjectKey": "objects/30ce0c25f703d1a53540359447f11d35b411f5c75481555b0dc45ffa8d62006b.jar",
       "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/30ce0c25f703d1a53540359447f11d35b411f5c75481555b0dc45ffa8d62006b.jar"
+    },
+    {
+      "Name": "leafmealone-1.0.1.jar",
+      "Sha256": "250ed81f8670d0afca9fec58d6c53b6023f3d66f1c78a26add87999d17e6e440",
+      "Size": 26528,
+      "ObjectKey": "objects/250ed81f8670d0afca9fec58d6c53b6023f3d66f1c78a26add87999d17e6e440.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/250ed81f8670d0afca9fec58d6c53b6023f3d66f1c78a26add87999d17e6e440.jar"
     },
     {
       "Name": "lithium-fabric-0.15.2\u002Bmc1.21.1.jar",
