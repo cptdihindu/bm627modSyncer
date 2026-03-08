@@ -1,8 +1,8 @@
 {
   "PackId": "default",
   "ShareCode": "CAULDRON-Y3B0ZGloaW5kdS9ibTYyN21vZFN5bmNlcnxkZWZhdWx0",
-  "Version": 4,
-  "GeneratedAt": "2026-03-08T08:52:09.8838754Z",
+  "Version": 5,
+  "GeneratedAt": "2026-03-08T08:54:36.8028747Z",
   "MinecraftVersion": null,
   "Loader": "unknown",
   "Mods": [
@@ -138,20 +138,6 @@
       "Size": 627640,
       "ObjectKey": "objects/4fa3ad51ec82bd8abe8e8ca9ad425314fb2b2a6a72d4957d71ff6d9e4889c759.jar",
       "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/4fa3ad51ec82bd8abe8e8ca9ad425314fb2b2a6a72d4957d71ff6d9e4889c759.jar"
-    },
-    {
-      "Name": "Fresh Moves v3.1_1.21.2 (With Animated Eyes).jar",
-      "Sha256": "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7",
-      "Size": 321871,
-      "ObjectKey": "objects/c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7.jar",
-      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7.jar"
-    },
-    {
-      "Name": "FreshAnimations_v1.10.4.jar",
-      "Sha256": "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2",
-      "Size": 850941,
-      "ObjectKey": "objects/8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2.jar",
-      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2.jar"
     },
     {
       "Name": "geckolib-fabric-1.21-4.5.8.jar",
