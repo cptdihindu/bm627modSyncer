@@ -1,8 +1,8 @@
 {
   "PackId": "default",
   "ShareCode": "CAULDRON-Y3B0ZGloaW5kdS9ibTYyN21vZFN5bmNlcnxkZWZhdWx0",
-  "Version": 3,
-  "GeneratedAt": "2026-03-08T08:50:42.9412692Z",
+  "Version": 4,
+  "GeneratedAt": "2026-03-08T08:52:09.8838754Z",
   "MinecraftVersion": null,
   "Loader": "unknown",
   "Mods": [
@@ -280,13 +280,6 @@
       "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/3dab9903812953eb2919c45ed2fc6c5890871db64fe9089d3f9742514b97f6b4.jar"
     },
     {
-      "Name": "skinrestorer-2.5.0\u002B1.21-fabric.jar",
-      "Sha256": "18a986b604eabea099f63eda612aa0b6e34e8b10e77157d50cc9dd0d4414d875",
-      "Size": 217129,
-      "ObjectKey": "objects/18a986b604eabea099f63eda612aa0b6e34e8b10e77157d50cc9dd0d4414d875.jar",
-      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/18a986b604eabea099f63eda612aa0b6e34e8b10e77157d50cc9dd0d4414d875.jar"
-    },
-    {
       "Name": "sodium-extra-fabric-0.6.0\u002Bmc1.21.1.jar",
       "Sha256": "1a7434e444c851d82efbe3d5a8fd2dbb142e9bdf0012d7c6a0e4741c641b1a2d",
       "Size": 373661,
@@ -442,6 +435,7 @@
     }
   ],
   "ServerOnly": [
-    "c2me-fabric-mc1.21-0.2.0\u002Balpha.11.109.jar"
+    "c2me-fabric-mc1.21-0.2.0\u002Balpha.11.109.jar",
+    "skinrestorer-2.5.0\u002B1.21-fabric.jar"
   ]
 }
