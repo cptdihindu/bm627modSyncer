@@ -1,8 +1,8 @@
 {
   "PackId": "default",
   "ShareCode": "CAULDRON-Y3B0ZGloaW5kdS9ibTYyN21vZFN5bmNlcnxkZWZhdWx0",
-  "Version": 2,
-  "GeneratedAt": "2026-03-07T14:36:15.2263176Z",
+  "Version": 3,
+  "GeneratedAt": "2026-03-08T08:50:42.9412692Z",
   "MinecraftVersion": null,
   "Loader": "unknown",
   "Mods": [
@@ -140,6 +140,20 @@
       "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/4fa3ad51ec82bd8abe8e8ca9ad425314fb2b2a6a72d4957d71ff6d9e4889c759.jar"
     },
     {
+      "Name": "Fresh Moves v3.1_1.21.2 (With Animated Eyes).jar",
+      "Sha256": "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7",
+      "Size": 321871,
+      "ObjectKey": "objects/c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7.jar"
+    },
+    {
+      "Name": "FreshAnimations_v1.10.4.jar",
+      "Sha256": "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2",
+      "Size": 850941,
+      "ObjectKey": "objects/8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2.jar"
+    },
+    {
       "Name": "geckolib-fabric-1.21-4.5.8.jar",
       "Sha256": "90d005c98e2c7495862626a07bae8a6cba52eafb438bb17bbc068fcdf3435f87",
       "Size": 584998,
@@ -264,6 +278,13 @@
       "Size": 223237,
       "ObjectKey": "objects/3dab9903812953eb2919c45ed2fc6c5890871db64fe9089d3f9742514b97f6b4.jar",
       "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/3dab9903812953eb2919c45ed2fc6c5890871db64fe9089d3f9742514b97f6b4.jar"
+    },
+    {
+      "Name": "skinrestorer-2.5.0\u002B1.21-fabric.jar",
+      "Sha256": "18a986b604eabea099f63eda612aa0b6e34e8b10e77157d50cc9dd0d4414d875",
+      "Size": 217129,
+      "ObjectKey": "objects/18a986b604eabea099f63eda612aa0b6e34e8b10e77157d50cc9dd0d4414d875.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/18a986b604eabea099f63eda612aa0b6e34e8b10e77157d50cc9dd0d4414d875.jar"
     },
     {
       "Name": "sodium-extra-fabric-0.6.0\u002Bmc1.21.1.jar",
