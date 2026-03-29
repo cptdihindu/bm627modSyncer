@@ -1,8 +1,8 @@
 {
   "PackId": "default",
   "ShareCode": "CAULDRON-Y3B0ZGloaW5kdS9ibTYyN21vZFN5bmNlcnxkZWZhdWx0",
-  "Version": 8,
-  "GeneratedAt": "2026-03-29T06:39:45.10318Z",
+  "Version": 9,
+  "GeneratedAt": "2026-03-29T06:44:13.0776556Z",
   "MinecraftVersion": null,
   "Loader": "unknown",
   "Mods": [
@@ -82,13 +82,6 @@
       "Size": 161308,
       "ObjectKey": "objects/74e6ac092425122cdee9c8e35ea0240b8a60075649c0fedebb7620d75c4efedc.jar",
       "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/74e6ac092425122cdee9c8e35ea0240b8a60075649c0fedebb7620d75c4efedc.jar"
-    },
-    {
-      "Name": "dummmmmmy-1.21-2.0.11-fabric.jar",
-      "Sha256": "b5a1d1a1ec3c4e9ab4dca7d8ce2eef2cb00873d153fb46d11e669bebce08d02c",
-      "Size": 212306,
-      "ObjectKey": "objects/b5a1d1a1ec3c4e9ab4dca7d8ce2eef2cb00873d153fb46d11e669bebce08d02c.jar",
-      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/b5a1d1a1ec3c4e9ab4dca7d8ce2eef2cb00873d153fb46d11e669bebce08d02c.jar"
     },
     {
       "Name": "DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
@@ -229,13 +222,6 @@
       "Size": 973066,
       "ObjectKey": "objects/a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428.jar",
       "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428.jar"
-    },
-    {
-      "Name": "moonlight-1.21-2.29.24-fabric.jar",
-      "Sha256": "f8f9847851b6146538d5e0ad7f8dd00e660feebda6f4aa964ae6247a9bd29fb1",
-      "Size": 1598675,
-      "ObjectKey": "objects/f8f9847851b6146538d5e0ad7f8dd00e660feebda6f4aa964ae6247a9bd29fb1.jar",
-      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/f8f9847851b6146538d5e0ad7f8dd00e660feebda6f4aa964ae6247a9bd29fb1.jar"
     },
     {
       "Name": "MoreChestVariants-1.5.6\u002B1.21-Fabric.jar",
