@@ -1,8 +1,8 @@
 {
   "PackId": "default",
   "ShareCode": "CAULDRON-Y3B0ZGloaW5kdS9ibTYyN21vZFN5bmNlcnxkZWZhdWx0",
-  "Version": 6,
-  "GeneratedAt": "2026-03-08T09:05:42.5367796Z",
+  "Version": 7,
+  "GeneratedAt": "2026-03-29T06:37:53.6433435Z",
   "MinecraftVersion": null,
   "Loader": "unknown",
   "Mods": [
@@ -84,6 +84,13 @@
       "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/74e6ac092425122cdee9c8e35ea0240b8a60075649c0fedebb7620d75c4efedc.jar"
     },
     {
+      "Name": "dummmmmmy-1.21-2.0.11-fabric.jar",
+      "Sha256": "b5a1d1a1ec3c4e9ab4dca7d8ce2eef2cb00873d153fb46d11e669bebce08d02c",
+      "Size": 212306,
+      "ObjectKey": "objects/b5a1d1a1ec3c4e9ab4dca7d8ce2eef2cb00873d153fb46d11e669bebce08d02c.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/b5a1d1a1ec3c4e9ab4dca7d8ce2eef2cb00873d153fb46d11e669bebce08d02c.jar"
+    },
+    {
       "Name": "DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
       "Sha256": "914190f6f899fca0f4b67595c6f7c53f8c736f6d1049a48fef8cfba46871d865",
       "Size": 11864952,
@@ -159,13 +166,6 @@
       "Size": 305635,
       "ObjectKey": "objects/e4c50168d0372957ae826d0404f8ea350d01217f90be3585c1e1699bbfee20a3.jar",
       "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/e4c50168d0372957ae826d0404f8ea350d01217f90be3585c1e1699bbfee20a3.jar"
-    },
-    {
-      "Name": "HMI 4.3 - 1.21.(1).jar",
-      "Sha256": "8fef74afd768f25621bd63b8df35c22f5b9eb35cdec91a360c6335e41890e24c",
-      "Size": 105906,
-      "ObjectKey": "objects/8fef74afd768f25621bd63b8df35c22f5b9eb35cdec91a360c6335e41890e24c.jar",
-      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/8fef74afd768f25621bd63b8df35c22f5b9eb35cdec91a360c6335e41890e24c.jar"
     },
     {
       "Name": "HorseBuff-1.21-2.1.8.jar",
