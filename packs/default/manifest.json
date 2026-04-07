@@ -1,8 +1,8 @@
 {
   "PackId": "default",
   "ShareCode": "CAULDRON-Y3B0ZGloaW5kdS9ibTYyN21vZFN5bmNlcnxkZWZhdWx0",
-  "Version": 9,
-  "GeneratedAt": "2026-03-29T06:44:13.0776556Z",
+  "Version": 10,
+  "GeneratedAt": "2026-04-07T18:46:39.9025992Z",
   "MinecraftVersion": null,
   "Loader": "unknown",
   "Mods": [
@@ -35,6 +35,13 @@
       "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/0bacd6867ef89c92307dd811ec6a5584e987ef367ab90a89c9ca2f6901fe5e97.jar"
     },
     {
+      "Name": "bottleyourxp-1.21.1-3.5.jar",
+      "Sha256": "e1d07221267aa93695fab3fd30f87a63cf304bdabc729ebfd859fc10f0c8be26",
+      "Size": 39410,
+      "ObjectKey": "objects/e1d07221267aa93695fab3fd30f87a63cf304bdabc729ebfd859fc10f0c8be26.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/e1d07221267aa93695fab3fd30f87a63cf304bdabc729ebfd859fc10f0c8be26.jar"
+    },
+    {
       "Name": "cardinal-components-api-6.1.3.jar",
       "Sha256": "302a8a4bc2e34cbffaf61af75ab5de47c06bfa159436665870ae61092b0f69a2",
       "Size": 229645,
@@ -54,6 +61,13 @@
       "Size": 1157166,
       "ObjectKey": "objects/33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f.jar",
       "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f.jar"
+    },
+    {
+      "Name": "collective-1.21.1-8.13.jar",
+      "Sha256": "d183b2e301c61c346a7b787beadbe880b92626e08d9ff11585e88fd00c67bf3f",
+      "Size": 946726,
+      "ObjectKey": "objects/d183b2e301c61c346a7b787beadbe880b92626e08d9ff11585e88fd00c67bf3f.jar",
+      "DownloadUrl": "https://raw.githubusercontent.com/cptdihindu/bm627modSyncer/main/objects/d183b2e301c61c346a7b787beadbe880b92626e08d9ff11585e88fd00c67bf3f.jar"
     },
     {
       "Name": "continuity-3.0.0\u002B1.21.jar",
